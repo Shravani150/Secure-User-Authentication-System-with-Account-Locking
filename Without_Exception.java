@@ -1,4 +1,4 @@
-# Code without Exception Handling
+// Code without Exception Handling
   
 import java.util.Scanner;
 class User{
